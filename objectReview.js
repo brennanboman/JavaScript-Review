@@ -87,8 +87,14 @@ var user = {
 
 
 /* NEXT PROBLEM - NEXT PROBLEM - NEXT PROBLEM */
+// i think i need to make a vowels array and push the vowels into it, maybe.
 
+var string = 'check how many vowels are in here'
+var vowelObj = {}
 
+function voweler(str) {
+
+}
 
 //write a function called voweler that accepts a string, and returns an object with the keys being all the vowels in that string, and the values being how many times that particular vowel was in the string.
 //voweler("This is a test") --> {i: 2, a: 1, e: 1};
